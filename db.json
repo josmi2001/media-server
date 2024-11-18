@@ -1,0 +1,43 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "arm",
+      "url": "https://i.ytimg.com/vi/1LnnrbPSAHQ/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/M-yqIcuVNe8"
+    },
+    {
+      "id": "3",
+      "caption": "Amaran",
+      "url": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/04-11-2024/1200-675-22823792-thumbnail-16x9-amaran-aspera.jpg?imwidth=3840",
+      "link": "https://www.youtube.com/embed/0Z3I8TSUwLI"
+    },
+    {
+      "id": "5",
+      "caption": "Avesham",
+      "url": "https://th.bing.com/th/id/OIP.DREmBV2WZWxBtAm-D1ZT4AHaDg?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Amaran",
+      "link": "https://www.youtube.com/embed/0Z3I8TSUwLI",
+      "timeStamp": "11/15/2024, 07:27:48 PM",
+      "id": 1
+    },
+    {
+      "caption": "Avesham",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/18/2024, 07:55:44 AM",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "songs",
+      "allVideos": []
+    }
+  ]
+}
